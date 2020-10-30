@@ -4,7 +4,6 @@
 
 - Evaluation
 - Classification
-  - 
 - Regression
 - Dimension Reduction
 - Clustering
