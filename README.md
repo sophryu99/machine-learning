@@ -1,11 +1,13 @@
-# ML_study
+# machine learning & deep learning
 
 
 
-- Evaluation
 - Classification
 - Regression
 - Dimension Reduction
 - Clustering
+- Evaluation
 - Text Analysis
 - Recommendation
+
+- Artificial Neural Network
