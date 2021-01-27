@@ -196,3 +196,18 @@ Output (stop words removed):
 ['Backgammon', 'one', 'oldest', 'known', 'board', 'games', '.']
 ```
 
+<br/>
+
+### 5. Regex (regular expressions)
+
+- `.` - match **any character** **except newline**
+- `\w` - match **word**
+- `\d` - match **digit**
+- `\s` - match **whitespace**
+- `\W` - match **not word**
+- `\D` - match **not digit**
+- `\S` - match **not whitespace**
+- `[abc]` - match **any** of a, b, or c
+- `[^abc]` - **not** match a, b, or c
+- `[a-g]` - match a character **between** a & g
+
